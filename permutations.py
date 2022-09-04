@@ -1,5 +1,5 @@
 """ Function to return all permutations of a given string
-_____________________ PYTHON Lab-2 _____________________ """
+_____________________ Python Lab-2 _____________________ """
 
 # Declaring a function to print all permutations
 def permute_string(str):
