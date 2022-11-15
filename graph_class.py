@@ -2,7 +2,7 @@
 are represented as {Node1: (Node2, Weight1), Node2: (Node3, Weight2)}"""
 
 class Graph:
-    def init(self, no_of_nodes):
+    def __init__(self, no_of_nodes):
         # Data members
         self.No_of_node = no_of_nodes
         self.gph = dict()
