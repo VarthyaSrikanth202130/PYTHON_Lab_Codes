@@ -1,5 +1,4 @@
-""" Function to return all palindromic substrings from a given string
-________________ Python Lab-1 _____________________ """
+""" Function to return all palindromic substrings from a given string """ 
 
 # Function to check palindrome
 def ispalindrome(str):
